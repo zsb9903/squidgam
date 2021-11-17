@@ -1,0 +1,166 @@
+h1 {
+  font-family: 'Montagu Slab', serif;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+/*section colour*/
+.coloured-section {
+  background-color: #008080;
+  color: #fff;
+}
+.white-section{
+  background-color: #fff;
+  color: #008080;
+}
+
+/*Title-section*/
+#title-page .container-fluid {
+  padding: 10% 20% 10% 20%;
+  text-align: left;
+}
+
+.big-heading {
+  font-family: 'Montagu Slab', serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.heading {
+  border: solid;
+  padding: 5% 0% 5% 5%;
+  z-index: 1;
+}
+
+/*phone-img*/
+.phone {
+  width: 150%;
+  position: absolute;
+  left: 0.00000001%;
+  border-radius: 10% 10%;
+  padding-left: 0% 5% 0% 5%;
+    transform: rotate(25deg);
+    z-index: 0;
+}
+
+/*nav-bar*/
+.navbar {
+  padding: 0 0 2.5rem;
+}
+.navbar-brand {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-right: 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montagu Slab', serif;
+}
+
+.nav-item {
+  padding: 0px 10px 0px;
+  padding-right: 10px;
+  z-index: 1;
+}
+
+/*Feautre pictures*/
+.feature-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100%;
+  text-align: center;
+}
+.feature {
+  text-align: center;
+padding: 100px 10px 100px 10px;
+}
+.feature-col{
+  border: solid;
+  padding: 10px 10px 10px 10px;
+  border-color: #008080;
+}
+/*Carousel Slide*/
+.carousel{
+  text-align: center;
+  padding: 30px 10px 100px 10px;
+  }
+  .big-heading-games{
+    font-family: 'Montagu Slab', serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-top: 100px;
+    text-align: center;
+  }
+  /*Apply*/
+  #apply{
+    text-align: center;
+    padding: 10% 10% 10% 10%;
+  }
+.form{
+  text-align: left;
+  width: 200%;
+  height: 400%;
+  line-height: 2;
+}
+.feature-img-gihun {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100%;
+  text-align: center;
+  float: left;
+    margin-right: 30px;
+}
+.feature-img-hojon {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100%;
+  text-align: center;
+  float: right;
+    margin-left: 30px;
+}
+.feature-img-ali{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100%;
+  text-align: center;
+  float: left;
+    margin-right: 30px;
+}
+.player-review{
+  padding: 2% 2% 5% 2%;
+}
+.players-h1{
+  padding: 5% 5% 5% 5%;
+text-align: center;
+}
+.player-1{
+  border: solid;
+  padding: 5% 5% 10% 5%;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.footer{
+  text-align: center;
+  font-size: 50%;
+}
+/*press*/
+#press{
+  padding: 5% 0% 10% 0%;
+}
